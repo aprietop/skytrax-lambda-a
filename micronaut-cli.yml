@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.cryoport
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-lambda, aws-lambda-s3-event-notification, aws-v2-sdk, jackson-databind, java, junit, logback, maven, readme, shade, yaml]
